@@ -1,0 +1,45 @@
+Hello | Hello! How can I help you today?
+Hi | Hello! How can I help you today?
+Hey | Hello! How can I help you today?
+Good morning | Hello! How can I help you today?
+Good evening | Hello! How can I help you today?
+Do you sell computer components? | Yes, we offer a wide range of computer components, including processors, motherboards, RAM, SSDs, graphics cards, and power supplies.
+Can you build a custom PC for me? | Yes, we provide custom PC assembly services based on your needs, whether for gaming, office work, or professional use.
+Do you repair computers? | Yes, we diagnose and repair hardware and software issues, including component replacement and system optimization.
+Can you fix my laptop? | Yes, we fix common laptop issues such as screen replacement, battery problems, and overheating issues.
+Do you install operating systems? | Yes, we install and configure Windows, Linux, and macOS with the necessary drivers and software.
+Can you remove viruses from my PC? | Yes, we clean and secure your system by removing malware, viruses, and unwanted software.
+Do you offer data recovery services? | Yes, we help recover lost data and set up backup solutions to protect your important files.
+Can you set up my home or office network? | Yes, we assist in setting up and troubleshooting home or office networks, including routers and Wi-Fi extenders.
+Do you upgrade PC hardware? | Yes, we upgrade components such as RAM, storage, and graphics cards to boost your system's performance.
+Do you provide cooling solutions for PCs? | Yes, we provide air and liquid cooling solutions to optimize your PC’s temperature and performance.
+Where is your store located? | Our store is located in Msila, on Main Street.
+What is the exact address of your shop? | Our exact address is 123 Main Street, Msila.
+How can I get to your store from downtown Msila? | From downtown Msila, take Main Street towards City Mall, and you'll find us on the right.
+Is your store inside a mall or a standalone shop? | Our store is a standalone shop near the City Mall.
+Do you have multiple branches, or just one location? | Currently, we have one branch located in Msila.
+Can you provide directions to your shop? | Yes! We are located on Main Street, next to the City Mall. You can find us on Google Maps.
+Is there parking available near your store? | Yes, there is a free parking area right in front of our store.
+What landmarks are near your shop? | We are near City Mall and the Central Bus Station in Msila.
+Are you located near any well-known places in Msila? | Yes! We are just a 5-minute walk from Msila Central Square.
+Which street is your store on? | Our store is on Main Street in Msila.
+Is your store close to public transportation? | Yes, we are near the Msila Bus Station, which is just 300 meters away.
+How far is your store from Msila city center? | Our store is only 1km from Msila city center.
+Can I find your store on Google Maps? | Yes! Just search for 'Our Store Msila' on Google Maps.
+Do you have a location pin I can use for navigation? | Yes, here is our Google Maps link: [Insert Your Google Maps Link Here].
+Is your store easy to find for first-time visitors? | Yes, we are located on the main road with a large signboard.
+Are there any nearby shops or businesses I can use as a reference? | Yes, we are right next to City Mall and the National Bank.
+What is the nearest main road to your store? | Our store is on Main Street, the Ben Badis road in Msila.
+Are you located inside a commercial complex? | No, we have a standalone shop on Main Street.
+What is the best way to reach your shop by car? | You can take Main Street and turn left at City Mall. Our store is on the right.
+Are there any specific instructions for reaching your store? | Yes! If you’re coming from downtown, take Main Street and look for the City Mall. We are just 50 meters ahead.
+What are your working hours? | Our store is open from 08:00 to 12:00 and from 13:30 to 16:00.
+Are you open in the morning? | Yes, our morning shift is from 08:00 to 12:00.
+Are you open in the afternoon? | Yes, our afternoon shift is from 13:30 to 16:00.
+Do you close at lunchtime? | Yes, we close from 12:00 to 13:30 for lunch.
+What days are you open? | We are open from Saturday to Thursday and closed on Fridays.
+Do you offer online services? | Yes, we provide a range of online services, including remote PC diagnostics, software installation, and data recovery.
+Can you repair my computer remotely? | Yes, we offer remote troubleshooting and repair for software-related issues.
+Do you provide online consultations for PC upgrades? | Yes, we offer online consultations to help you choose the best upgrades for your PC.
+Can I buy computer components online from your store? | Yes, we sell computer components online, and you can place your order through our website or contact us directly.
+

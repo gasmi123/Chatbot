@@ -1,0 +1,388 @@
+{
+    "intents": [
+      {
+        "greeting": [
+          {
+            "question": "Hello",
+            "answer": "Hello! How can I help you today?"
+          },
+          {
+            "question": "Hi",
+            "answer": "Hello! How can I help you today?"
+          },
+          {
+            "question": "Hey",
+            "answer": "Hello! How can I help you today?"
+          },
+          {
+            "question": "Good morning",
+            "answer": "Hello! How can I help you today?"
+          },
+          {
+            "question": "Good evening",
+            "answer": "Hello! How can I help you today?"
+          },
+          {
+            "question": "مرحبًا",
+            "answer": "مرحبًا! كيف يمكنني مساعدتك اليوم؟"
+          },
+          {
+              "question": "أهلاً",
+              "answer": "مرحبًا! كيف يمكنني مساعدتك اليوم؟"
+          },
+          {
+              "question": "مرحبا",
+              "answer": "مرحبًا! كيف يمكنني مساعدتك اليوم؟"
+          },
+          {
+              "question": "صباح الخير",
+              "answer": "مرحبًا! كيف يمكنني مساعدتك اليوم؟"
+          },
+          {
+              "question": "مساء الخير",
+              "answer": "مرحبًا! كيف يمكنني مساعدتك اليوم؟"
+          }
+
+        ]
+      },
+      {
+        "store_services": [
+          {
+            "question": "Do you sell computer components?",
+            "answer": "Yes, we offer a wide range of computer components, including processors, motherboards, RAM, SSDs, graphics cards, and power supplies."
+          },
+          {
+            "question": "Can you build a custom PC for me?",
+            "answer": "Yes, we provide custom PC assembly services based on your needs, whether for gaming, office work, or professional use."
+          },
+          {
+            "question": "Do you repair computers?",
+            "answer": "Yes, we diagnose and repair hardware and software issues, including component replacement and system optimization."
+          },
+          {
+            "question": "Can you fix my laptop?",
+            "answer": "Yes, we fix common laptop issues such as screen replacement, battery problems, and overheating issues."
+          },
+          {
+            "question": "Do you install operating systems?",
+            "answer": "Yes, we install and configure Windows, Linux, and macOS with the necessary drivers and software."
+          },
+          {
+            "question": "Can you remove viruses from my PC?",
+            "answer": "Yes, we clean and secure your system by removing malware, viruses, and unwanted software."
+          },
+          {
+            "question": "Do you offer data recovery services?",
+            "answer": "Yes, we help recover lost data and set up backup solutions to protect your important files."
+          },
+          {
+            "question": "Can you set up my home or office network?",
+            "answer": "Yes, we assist in setting up and troubleshooting home or office networks, including routers and Wi-Fi extenders."
+          },
+          {
+            "question": "Do you upgrade PC hardware?",
+            "answer": "Yes, we upgrade components such as RAM, storage, and graphics cards to boost your system's performance."
+          },
+          {
+            "question": "Do you provide cooling solutions for PCs?",
+            "answer": "Yes, we provide air and liquid cooling solutions to optimize your PC’s temperature and performance."
+          },
+          {
+              "question": "هل تبيعون مكونات الكمبيوتر؟",
+              "answer": "نعم، نقدم مجموعة واسعة من مكونات الكمبيوتر، بما في ذلك المعالجات، اللوحات الأم، الذاكرة العشوائية (RAM)، وحدات التخزين (SSD)، بطاقات الرسومات، ومزودات الطاقة."
+          },
+          {
+              "question": "هل يمكنكم تجميع جهاز كمبيوتر مخصص لي؟",
+              "answer": "نعم، نقدم خدمات تجميع أجهزة الكمبيوتر المخصصة حسب احتياجاتك، سواء للألعاب، أو العمل المكتبي، أو الاستخدام الاحترافي."
+          },
+          {
+              "question": "هل تقومون بإصلاح أجهزة الكمبيوتر؟",
+              "answer": "نعم، نقوم بتشخيص وإصلاح مشاكل الأجهزة والبرمجيات، بما في ذلك استبدال المكونات وتحسين أداء النظام."
+          },
+          {
+              "question": "هل يمكنكم إصلاح جهاز اللابتوب الخاص بي؟",
+              "answer": "نعم، نقوم بإصلاح مشاكل اللابتوبات الشائعة مثل استبدال الشاشة، مشاكل البطارية، ومشاكل ارتفاع الحرارة."
+          },
+          {
+              "question": "هل تقومون بتثبيت أنظمة التشغيل؟",
+              "answer": "نعم، نقوم بتثبيت وتهيئة أنظمة Windows، Linux، و macOS مع جميع التعريفات والبرامج الضرورية."
+          },
+          {
+              "question": "هل يمكنكم إزالة الفيروسات من جهازي؟",
+              "answer": "نعم، نقوم بتنظيف وتأمين جهازك عن طريق إزالة الفيروسات والبرامج الضارة."
+          },
+          {
+              "question": "هل تقدمون خدمات استعادة البيانات؟",
+              "answer": "نعم، نساعد في استعادة البيانات المفقودة وإعداد حلول النسخ الاحتياطي لحماية ملفاتك المهمة."
+          },
+          {
+              "question": "هل يمكنكم إعداد شبكتي المنزلية أو المكتبية؟",
+              "answer": "نعم، نقدم المساعدة في إعداد واستكشاف مشاكل الشبكات المنزلية أو المكتبية، بما في ذلك أجهزة التوجيه (الراوتر) ومقويات الواي فاي."
+          },
+          {
+              "question": "هل تقومون بترقية مكونات الكمبيوتر؟",
+              "answer": "نعم، نقوم بترقية مكونات مثل الذاكرة العشوائية (RAM)، وحدات التخزين، وبطاقات الرسومات لتعزيز أداء جهازك."
+          },
+          {
+              "question": "هل توفرون حلول تبريد لأجهزة الكمبيوتر؟",
+              "answer": "نعم، نقدم حلول تبريد هوائية وسائلة لتحسين درجة حرارة جهاز الكمبيوتر وأدائه."
+          }
+          ]
+      },
+      
+      {
+          "location_search": [
+            {
+              "question": "Where is your store located?",
+              "answer": "Our store is located in Msila, on Main Street."
+            },
+            {
+              "question": "What is the exact address of your shop?", 
+              "answer": "Our exact address is 123 Main Street, Msila."
+            },
+            {
+              "question": "How can I get to your store from downtown Msila?",
+              "answer": "From downtown Msila, take Main Street towards City Mall, and you'll find us on the right."
+            },
+            {
+              "question": "Is your store inside a mall or a standalone shop?",
+              "answer": "Our store is a standalone shop near the City Mall."
+            },
+            {
+              "question": "Do you have multiple branches, or just one location?",
+              "answer": "Currently, we have one branch located in Msila."
+            },
+            {
+              "question": "Can you provide directions to your shop?",
+              "answer": "Yes! We are located on Main Street, next to the City Mall. You can find us on Google Maps."
+            },
+            {
+              "question": "Is there parking available near your store?",
+              "answer": "Yes, there is a free parking area right in front of our store."
+            },
+            {
+              "question": "What landmarks are near your shop?",
+              "answer": "We are near City Mall and the Central Bus Station in Msila."
+            },
+            {
+              "question": "Are you located near any well-known places in Msila?",
+              "answer": "Yes! We are just a 5-minute walk from Msila Central Square."
+            },
+            {
+              "question": "Which street is your store on?",
+              "answer": "Our store is on Main Street in Msila."
+            },
+            {
+              "question": "Is your store close to public transportation?",
+              "answer": "Yes, we are near the Msila Bus Station, which is just 300 meters away."
+            },
+            {
+              "question": "How far is your store from Msila city center?",
+              "answer": "Our store is only 1km from Msila city center."
+            },
+            {
+              "question": "Can I find your store on Google Maps?",
+              "answer": "Yes! Just search for 'Our Store Msila' on Google Maps."
+            },
+            {
+              "question": "Do you have a location pin I can use for navigation?",
+              "answer": "Yes, here is our Google Maps link: [Insert Your Google Maps Link Here]."
+            },
+            {
+              "question": "Is your store easy to find for first-time visitors?",
+              "answer": "Yes, we are located on the main road with a large signboard."
+            },
+            {
+              "question": "Are there any nearby shops or businesses I can use as a reference?",
+              "answer": "Yes, we are right next to City Mall and the National Bank."
+            },
+            {
+              "question": "What is the nearest main road to your store?",
+              "answer": "Our store is on Main Street, the Ben Badis road in Msila."
+            },
+            {
+              "question": "Are you located inside a commercial complex?",
+              "answer": "No, we have a standalone shop on Main Street."
+            },
+            {
+              "question": "What is the best way to reach your shop by car?",
+              "answer": "You can take Main Street and turn left at City Mall. Our store is on the right."
+            },
+            {
+              "question": "Are there any specific instructions for reaching your store?",
+              "answer": "Yes! If you’re coming from downtown, take Main Street and look for the City Mall. We are just 50 meters ahead."
+            },
+            {
+              "question": "أين يقع متجركم؟",
+              "answer": "يقع متجرنا في المسيلة، في الشارع الرئيسي."
+            },
+            {
+                "question": "ما هو العنوان الدقيق لمتجركم؟",
+                "answer": "عنواننا الدقيق هو 123 الشارع الرئيسي، المسيلة."
+            },
+            {
+                "question": "كيف يمكنني الوصول إلى متجركم من وسط مدينة المسيلة؟",
+                "answer": "من وسط مدينة المسيلة، اسلك الشارع الرئيسي باتجاه سيتي مول، وستجدنا على اليمين."
+            },
+            {
+                "question": "هل متجركم داخل مول أم هو محل مستقل؟",
+                "answer": "متجرنا محل مستقل بالقرب من سيتي مول."
+            },
+            {
+                "question": "هل لديكم فروع متعددة أم هو فرع واحد فقط؟",
+                "answer": "حاليًا، لدينا فرع واحد فقط في المسيلة."
+            },
+            {
+                "question": "هل يمكنكم تزويدي بتوجيهات للوصول إلى متجركم؟",
+                "answer": "نعم! نحن موجودون في الشارع الرئيسي، بجوار سيتي مول. يمكنك العثور علينا في خرائط جوجل."
+            },
+            {
+                "question": "هل يوجد موقف سيارات بالقرب من متجركم؟",
+                "answer": "نعم، يوجد موقف سيارات مجاني أمام المتجر مباشرة."
+            },
+            {
+                "question": "ما هي المعالم القريبة من متجركم؟",
+                "answer": "نحن بالقرب من سيتي مول ومحطة الحافلات المركزية في المسيلة."
+            },
+            {
+                "question": "هل يقع متجركم بالقرب من أماكن معروفة في المسيلة؟",
+                "answer": "نعم! نحن على بعد 5 دقائق سيرًا على الأقدام من ساحة المسيلة المركزية."
+            },
+            {
+                "question": "في أي شارع يقع متجركم؟",
+                "answer": "متجرنا يقع في الشارع الرئيسي في المسيلة."
+            },
+            {
+                "question": "هل متجركم قريب من وسائل النقل العام؟",
+                "answer": "نعم، نحن بالقرب من محطة حافلات المسيلة، على بعد 300 متر فقط."
+            },
+            {
+                "question": "كم يبعد متجركم عن مركز مدينة المسيلة؟",
+                "answer": "متجرنا يبعد 1 كيلومتر فقط عن مركز مدينة المسيلة."
+            },
+            {
+                "question": "هل يمكنني العثور على متجركم في خرائط جوجل؟",
+                "answer": "نعم! فقط ابحث عن 'متجرنا المسيلة' في خرائط جوجل."
+            },
+            {
+                "question": "هل لديكم موقع جغرافي يمكنني استخدامه للتنقل؟",
+                "answer": "نعم، إليك رابط خرائط جوجل الخاص بنا: [أدخل رابط خرائط جوجل هنا]."
+            },
+            {
+                "question": "هل من السهل العثور على متجركم للزوار لأول مرة؟",
+                "answer": "نعم، نحن موجودون على الطريق الرئيسي مع لافتة كبيرة."
+            },
+            {
+                "question": "هل هناك محلات تجارية أو أعمال قريبة يمكن استخدامها كمرجع؟",
+                "answer": "نعم، نحن بجوار سيتي مول والبنك الوطني."
+            },
+            {
+                "question": "ما هو أقرب شارع رئيسي إلى متجركم؟",
+                "answer": "متجرنا يقع في الشارع الرئيسي، طريق ابن باديس في المسيلة."
+            },
+            {
+                "question": "هل يقع متجركم داخل مجمع تجاري؟",
+                "answer": "لا، متجرنا مستقل في الشارع الرئيسي."
+            },
+            {
+                "question": "ما هي أفضل طريقة للوصول إلى متجركم بالسيارة؟",
+                "answer": "يمكنك سلوك الشارع الرئيسي ثم الانعطاف يسارًا عند سيتي مول. متجرنا سيكون على اليمين."
+            },
+            {
+                "question": "هل هناك تعليمات محددة للوصول إلى متجركم؟",
+                "answer": "نعم! إذا كنت قادمًا من وسط المدينة، اسلك الشارع الرئيسي وابحث عن سيتي مول. نحن على بعد 50 مترًا فقط."
+            }
+  
+          ] 
+      },
+      {
+        "working_hours": [
+          {
+            "question": "What are your working hours?",
+            "answer": "Our store is open from 08:00 to 12:00 and from 13:30 to 16:00."
+          },
+          {
+            "question": "Are you open in the morning?",
+            "answer": "Yes, our morning shift is from 08:00 to 12:00."
+          },
+          {
+            "question": "Are you open in the afternoon?",
+            "answer": "Yes, our afternoon shift is from 13:30 to 16:00."
+          },
+          {
+            "question": "Do you close at lunchtime?",
+            "answer": "Yes, we close from 12:00 to 13:30 for lunch."
+          },
+          {
+            "question": "What days are you open?",
+            "answer": "We are open from Saturday to Thursday and closed on Fridays."
+          }
+        ]
+      },
+      {
+        "online_services": [
+          {
+            "question": "Do you offer online services?",
+            "answer": "Yes, we provide a range of online services, including remote PC diagnostics, software installation, and data recovery."
+          },
+          {
+            "question": "Can you repair my computer remotely?",
+            "answer": "Yes, we offer remote troubleshooting and repair for software-related issues."
+          },
+          {
+            "question": "Do you provide online consultations for PC upgrades?",
+            "answer": "Yes, we offer online consultations to help you choose the best upgrades for your PC."
+          },
+          {
+            "question": "Can I buy computer components online from your store?",
+            "answer": "Yes, we sell computer components online, and you can place your order through our website or contact us directly."
+          },
+          {
+            "question": "Do you offer remote software installation?",
+            "answer": "Yes, we can install and configure software remotely on your PC."
+          },
+          {
+            "question": "How do I request an online service?",
+            "answer": "You can request an online service by contacting us through our website or social media platforms."
+          },
+          {
+            "question": "What are the payment options for online services?",
+            "answer": "We accept online payments via credit card, bank transfer, and mobile payment apps."
+          },
+          {
+            "question": "Do you provide online virus and malware removal?",
+            "answer": "Yes, we offer remote virus and malware removal services to secure your PC."
+          },
+          {
+            "question": "Can I book an appointment for online support?",
+            "answer": "Yes, you can schedule an appointment for online support through our website."
+          },
+          {
+            "question": "Are your online services available 24/7?",
+            "answer": "Our online services are available during working hours, from 08:00 to 12:00 and from 13:30 to 16:00."
+          }
+        ]
+      },
+      {
+        "goodbye": [
+          {
+            "question": "Bye",
+            "answer": "Goodbye! Have a great day!"
+          },
+          {
+            "question": "Goodbye",
+            "answer": "Goodbye! Have a great day!"
+          },
+          {
+            "question": "See you later",
+            "answer": "See you later! Take care."
+          },
+          {
+            "question": "I have to go now",
+            "answer": "Goodbye! Have a great day!"
+          }
+        ]
+      }
+    ]
+  }
+  
