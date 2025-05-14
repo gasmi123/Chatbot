@@ -22,4 +22,4 @@ def chat():
     return jsonify({"response": response, "confidence": confidence})
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000, debug=True)
+    app.run(host='0.0.0.0', port=6123, debug=True)
